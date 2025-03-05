@@ -1,0 +1,26 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.2.4",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-icons": "^5.5.0"
+  },
+  "devDependencies": {
+    "@chakra-ui/react": "^2.10.6",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@types/node": "22.13.5",
+    "@types/react": "19.0.10",
+    "framer-motion": "^4.1.17",
+    "typescript": "5.7.3"
+  }
+}
